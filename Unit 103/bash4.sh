@@ -1,8 +1,10 @@
-#!/bin/bash
+# #!/bin/bash
 
-# Lets create a function in bash that adds two number together
-# Stretch goal can you do subtraction, multipliaction or division
-# You will need to declare two variables
+
+# # Lets create a function in bash that adds two number together
+# # Stretch goal can you do subtraction, multiplication or division
+# # You will need to declare two variables
+
 
 echo "Enter 2 numbers to add"
 read num1
@@ -14,6 +16,7 @@ function add(){
 
 }
 add
+
 
 echo "Enter 2 numbers to subtract"
 read num1
@@ -59,3 +62,4 @@ multiply
 
 
 fi
+# ./bash4.sh
