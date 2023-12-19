@@ -2,7 +2,7 @@
 # Using one of the comparison operators in Python, write a simple program that takes the parameter n as input,
 #  which is an integer, and prints False if n is less than 100, and True if n is greater than or equal to 100.
 
-#Chat GPT's Code
+#Chat GPT's Code10
 # def check_greater_than_or_equal_to_100(n):
 #     result = n >= 100
 #     print(result)
