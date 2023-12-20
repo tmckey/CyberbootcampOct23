@@ -35,3 +35,17 @@ def execute_command(command, description):
 execute_command(whoami_command, "Displaying current user")
 execute_command(ip_a_command, "Displaying network interfaces")
 execute_command(lshw_short_command, "Displaying hardware information (short)")
+
+# import subprocess
+# import os
+# computer = "whoami"
+# network = "ifconfig"
+# lsa = "lshw -short"
+# mac = "sysctl -a"
+# print("Who am I")
+# os.system(computer)
+# print("Network configurations")
+# subprocess.run(network)
+# print("Hardware")
+# os.system(mac)
+# #os.system(lsa)
